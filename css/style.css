@@ -1,0 +1,24 @@
+.logo {
+    display: flex;
+}
+
+.logo h1 {
+    margin-left: 10px;
+}
+
+#cover-page {
+    width: 100vw;
+    margin: 0 auto;
+    padding-left: 100px;
+
+}
+
+#home {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+#home #letter {
+    width: 900px;
+}
